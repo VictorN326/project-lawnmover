@@ -8,7 +8,7 @@ about this project:
 
 The point of this project is to implement two different sorting methods. The function
 for these this is called the lawnmower algorithm and the sort_alternate algorithm. 
-In this project, taking an array and we are sorting them when they contain
-mix of dark and light disk in some random order. What we have to accomplish
+In this project, we are taking an array and we are sorting them when they contain
+a mix of dark and light disks in some random order. What we have to accomplish
 in this project is that we need to have ALL the dark disk on the right side of the array
 and the left side has ALL the light disk. 
