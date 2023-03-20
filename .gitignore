@@ -1,0 +1,11 @@
+#Ignore .exe
+*.exe
+*.out
+*.app
+
+#Ignore object files
+*.o
+*.obj
+
+#
+*.mod
