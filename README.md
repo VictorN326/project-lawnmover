@@ -12,3 +12,7 @@ In this project, we are taking an array and we are sorting them when they contai
 a mix of dark and light disks in some random order. What we have to accomplish
 in this project is that we need to have ALL the dark disk on the right side of the array
 and the left side has ALL the light disk. 
+
+Video Demonstration in case not wanting mp4 download:
+
+https://youtu.be/BK77c4XAEtg
