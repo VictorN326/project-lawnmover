@@ -1,7 +1,6 @@
 Students in the project:
 
 Victor Nguyen Email: Victor326@csu.fullerton.edu CWID: 85992636
-
 Justin Nguyen Email: justindnguyen03@csu.fullerton.edu  CWID: 886407279
 
 about this project:
