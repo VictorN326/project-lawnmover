@@ -5,6 +5,7 @@ Victor Nguyen Email: Victor326@csu.fullerton.edu CWID: 85992636
 Justin Nguyen Email: justindnguyen03@csu.fullerton.edu  CWID: 886407279
 
 about this project:
+
 The point of this project is to implement two different sorting methods. The function
 for these this is called the lawnmower algorithm and the sort_alternate algorithm. 
 In this project, taking an array and we are sorting them when they contain
